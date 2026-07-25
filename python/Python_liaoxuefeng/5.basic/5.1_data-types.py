@@ -1,4 +1,17 @@
 """
+课中练习
+"""
+
+print('''line1
+line2
+line3''')
+
+print(r'''hello,\n
+world''')
+
+
+
+"""
 练习
 请打印出以下变量的值：
 
