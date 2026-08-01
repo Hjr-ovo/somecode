@@ -33,11 +33,15 @@ python/Python_liaoxuefeng/
 │   ├── 5.5_match.py           # match 模式匹配
 │   ├── 5.6_loop.py            # 循环
 │   └── 5.7_dict-set.py        # dict 和 set
-└── 6.function/        # 函数
-    ├── 6.1_call-function.py   # 调用函数（hex）
-    ├── 6.2_define-function.py # 定义函数（my_abs、quadratic）
-    ├── 6.3_parameter.py       # 函数参数（可变参数 *args）
-    └── 6.4_recursive-function.py # 递归函数（汉诺塔）
+├── 6.function/        # 函数
+│   ├── 6.1_call-function.py   # 调用函数（hex）
+│   ├── 6.2_define-function.py # 定义函数（my_abs、quadratic）
+│   ├── 6.3_parameter.py       # 函数参数（可变参数 *args）
+│   └── 6.4_recursive-function.py # 递归函数（汉诺塔）
+└── 7.advanced/        # 高级特性
+    ├── 7.1_slice.py           # 切片（trim）
+    ├── 7.2_iterate.py         # 迭代（findMinAndMax）
+    └── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
 ```
 
 ## 章节进度
@@ -55,6 +59,9 @@ python/Python_liaoxuefeng/
 | 6.2 | `6.function/6.2_define-function.py` | 定义函数——`my_abs`、`quadratic` 一元二次方程 |
 | 6.3 | `6.function/6.3_parameter.py` | 函数参数——可变参数 `*args`、`mul` 乘积函数 |
 | 6.4 | `6.function/6.4_recursive-function.py` | 递归函数——汉诺塔移动 |
+| 7.1 | `7.advanced/7.1_slice.py` | 切片——`trim` 去除字符串首尾空格 |
+| 7.2 | `7.advanced/7.2_iterate.py` | 迭代——`findMinAndMax` 查找最小最大值 |
+| 7.3 | `7.advanced/7.3_list-comprehension.py` | 列表生成式——`isinstance` 类型过滤 + `.lower()` |
 
 ---
 
