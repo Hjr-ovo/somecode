@@ -58,7 +58,7 @@ python main.py
 ## 📁 项目结构
 
 ```
-快递驿站管理系统/
+tools/快递驿站管理系统/
 ├── main.py          # 主程序入口
 ├── auth.py          # 用户认证模块
 ├── manager.py       # 包裹管理逻辑

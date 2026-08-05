@@ -53,7 +53,7 @@ pip install PySide6
 ## 运行方式
 
 ```bash
-cd python/Python_QT
+cd learning/Python/PySide6
 python 文件名.py
 ```
 

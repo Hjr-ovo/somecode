@@ -23,7 +23,7 @@ python 文件名.py
 ## 目录结构
 
 ```
-python/Python_liaoxuefeng/
+learning/Python/liaoxuefeng/
 ├── README.md          # 本说明文件
 ├── 5.basic/           # Python 基础
 │   ├── 5.1_data-types.py      # 数据类型
