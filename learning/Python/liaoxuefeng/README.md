@@ -41,7 +41,8 @@ learning/Python/liaoxuefeng/
 └── 7.advanced/        # 高级特性
     ├── 7.1_slice.py           # 切片（trim）
     ├── 7.2_iterate.py         # 迭代（findMinAndMax）
-    └── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
+    ├── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
+    └── 7.4_generator.py       # 生成器（杨辉三角）
 ```
 
 ## 章节进度
@@ -62,6 +63,7 @@ learning/Python/liaoxuefeng/
 | 7.1 | `7.advanced/7.1_slice.py` | 切片——`trim` 去除字符串首尾空格 |
 | 7.2 | `7.advanced/7.2_iterate.py` | 迭代——`findMinAndMax` 查找最小最大值 |
 | 7.3 | `7.advanced/7.3_list-comprehension.py` | 列表生成式——`isinstance` 类型过滤 + `.lower()` |
+| 7.4 | `7.advanced/7.4_generator.py` | 生成器——`yield`、杨辉三角 |
 
 ---
 
