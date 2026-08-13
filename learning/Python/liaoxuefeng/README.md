@@ -38,11 +38,14 @@ learning/Python/liaoxuefeng/
 │   ├── 6.2_define-function.py # 定义函数（my_abs、quadratic）
 │   ├── 6.3_parameter.py       # 函数参数（可变参数 *args）
 │   └── 6.4_recursive-function.py # 递归函数（汉诺塔）
-└── 7.advanced/        # 高级特性
-    ├── 7.1_slice.py           # 切片（trim）
-    ├── 7.2_iterate.py         # 迭代（findMinAndMax）
-    ├── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
-    └── 7.4_generator.py       # 生成器（杨辉三角）
+├── 7.advanced/        # 高级特性
+│   ├── 7.1_slice.py           # 切片（trim）
+│   ├── 7.2_iterate.py         # 迭代（findMinAndMax）
+│   ├── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
+│   └── 7.4_generator.py       # 生成器（杨辉三角）
+└── 8.functional/      # 函数式编程
+    └── 8.1higher-order-function/
+        └── 8.1.1map-reduce.py # map/reduce（normalize、prod、str2float）
 ```
 
 ## 章节进度
@@ -64,6 +67,7 @@ learning/Python/liaoxuefeng/
 | 7.2 | `7.advanced/7.2_iterate.py` | 迭代——`findMinAndMax` 查找最小最大值 |
 | 7.3 | `7.advanced/7.3_list-comprehension.py` | 列表生成式——`isinstance` 类型过滤 + `.lower()` |
 | 7.4 | `7.advanced/7.4_generator.py` | 生成器——`yield`、杨辉三角 |
+| 8.1.1 | `8.functional/8.1higher-order-function/8.1.1map-reduce.py` | map/reduce——`normalize`、`prod`、`str2float` |
 
 ---
 
