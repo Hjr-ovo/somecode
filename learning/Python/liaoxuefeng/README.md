@@ -44,8 +44,10 @@ learning/Python/liaoxuefeng/
 │   ├── 7.3_list-comprehension.py # 列表生成式（isinstance 过滤）
 │   └── 7.4_generator.py       # 生成器（杨辉三角）
 └── 8.functional/      # 函数式编程
-    └── 8.1higher-order-function/
-        └── 8.1.1map-reduce.py # map/reduce（normalize、prod、str2float）
+    └── 8.1_higher-order-function/
+        ├── 8.1.1_map-reduce.py     # map/reduce（normalize、prod、str2float）
+        ├── 8.1.2_filter.py         # filter（回文数）
+        └── 8.1.3sorted.py          # sorted（按名字、按成绩排序）
 ```
 
 ## 章节进度
@@ -67,7 +69,9 @@ learning/Python/liaoxuefeng/
 | 7.2 | `7.advanced/7.2_iterate.py` | 迭代——`findMinAndMax` 查找最小最大值 |
 | 7.3 | `7.advanced/7.3_list-comprehension.py` | 列表生成式——`isinstance` 类型过滤 + `.lower()` |
 | 7.4 | `7.advanced/7.4_generator.py` | 生成器——`yield`、杨辉三角 |
-| 8.1.1 | `8.functional/8.1higher-order-function/8.1.1map-reduce.py` | map/reduce——`normalize`、`prod`、`str2float` |
+| 8.1.1 | `8.functional/8.1_higher-order-function/8.1.1_map-reduce.py` | map/reduce——`normalize`、`prod`、`str2float` |
+| 8.1.2 | `8.functional/8.1_higher-order-function/8.1.2_filter.py` | filter——回文数筛选 |
+| 8.1.3 | `8.functional/8.1_higher-order-function/8.1.3sorted.py` | sorted——`key` 按名字/成绩排序 |
 
 ---
 
