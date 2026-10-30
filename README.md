@@ -11,7 +11,8 @@ somecode/
 │   └── 快递驿站管理系统/      # 命令行版完成，Web 端未完成
 ├── archive/                  # 学习归档，不再维护
 │   ├── learning/             # 廖雪峰 Python 教程跟练、PySide6 练习
-│   └── 学习记录/             # 学习日志
+│   ├── 学习记录/             # 学习日志
+│   └── MATLAB-PFSP调度/      # 课程设计：流水车间调度四种算法对比
 ├── README.md
 └── .gitignore
 ```
@@ -24,6 +25,7 @@ somecode/
 | `tools/快递驿站管理系统/` | 未完成 | Python 命令行版可用（双角色登录、包裹入库/取件/统计）；`web_app.py` 只写了个开头 |
 | `archive/learning/` | 归档 | 廖雪峰教程 5~8 章与 PySide6 练习 |
 | `archive/学习记录/` | 归档 | 学习日志，最后一次是 2026-08-21 |
+| `archive/MATLAB-PFSP调度/` | 归档 | 课程设计。GA/SA/ACO/PSO 手写实现求解置换流水车间调度，两算例各跑 50 次做对比 |
 
 ## 运行
 
